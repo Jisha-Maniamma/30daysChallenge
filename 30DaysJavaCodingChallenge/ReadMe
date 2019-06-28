@@ -1,0 +1,26 @@
+This is a Java 30 day Learning challenge for a begineer 
+
+start with day1 for 30 days or multiple projects each day
+run the code in eclipse[do not copy paste- plz type by yourself]
+
+//after craeting a github account
+step1: download Eclipse IDE
+step2: create a package and classes in eclipse
+step3: craete a reprository in github (then-copy the URI)
+step4:right click on the project on eclipse (team->share Project->create a new git reprository)
+step5: on the left of project on eclipse a (?) symbol exists now right click on the project (team->commit)
+step6:press commit and push
+step7: if you get an error "There are no staged files"
+       then
+          drag all the files on Unstaged changes to Staged changes and click commit and push
+          OR
+          click on SRC folfer ->right click->Add To Index
+          then right click on the project (team->commit) and GOTO step 6
+step8: enter your user id and password og github (you can save the password so that it doesnot promt you each time to enter)
+step9:craete new class files and carry out the same steps from step5
+step10: refresh the github page and you are ready to go
+
+
+//////////////
+ENJOY CODING
+/////////////
